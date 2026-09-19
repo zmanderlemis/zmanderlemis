@@ -1,13 +1,11 @@
-## Hi there 👋
+
 
 
 <div align="center">
 
-<img src="./src/assets/readme-banner.png" width="100%" alt="Welcome to my GitHub" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=28&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Lemis+%F0%9F%91%8B;Creative+Developer+%E2%9C%A8;Welcome+to+my+GitHub!+%F0%9F%8C%B8" alt="Animated introduction" />
 
-<br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=28&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Lemis+%F0%9F%92%BB;Creative+Developer+%E2%9C%A8;Welcome+to+my+GitHub!+%F0%9F%8C%B8" alt="Animated introduction" />
 
 </div>
 
