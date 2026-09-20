@@ -13,7 +13,6 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="380" src="./src/assets/readme-coding.png" alt="Girl coding at her desk" />
 
 - 🎓 2nd-Year Student – Integrated Preparatory Engineering Program
   
